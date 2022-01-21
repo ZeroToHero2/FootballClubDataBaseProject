@@ -1,5 +1,6 @@
 # FootballClubDataBaseProject
-Simple Warmup DataBase Project with PostgreSQL and DBeaver
+Simple DataBase Project with PostgreSQL and DBeaver with Additional Queries and Documentation.
+
 # Built With
 - Java
 - PostgreSQL
