@@ -1,7 +1,6 @@
 // Intended Special Queries 
 ************************************************************************
-//List the transferrable Player whose previous team is 'BJK' and Cost = 0
--- Or our TA names this query like that->
+//List the transferrable Player whose previous team is 'BJK' and Cost = 0 
 //List the information of players whose agreement with BJK has expired 
 //and whose transfer will take place free of charge
 
@@ -15,7 +14,7 @@ FROM "Current Squad" cs, "Players" p2
 WHERE( p2.player_status= 'A Team' AND cs.p_id = p2.player_id)
 
 ***********************************************************************
-//OUR QUERIES:
+//Other QUERIES:
 
 // List of players suggested by the Sports Director to coach number "2"     // 3 table inner join
 SELECT p.player_id,p.p_name,p.uniform_num,p.p_position FROM suggest s INNER JOIN coach c ON s.c_id = c.coach_id 
