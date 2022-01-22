@@ -6,4 +6,4 @@ Simple DataBase Project with PostgreSQL and DBeaver with Additional Queries and 
 - PostgreSQL
 - DBeaver
 # Authors
-- Bahadır Ünal [Profile](https://github.com/ZeroToHero2).
+- Bahadır Ünal [Profile](https://github.com/ZeroToHero2). 👍
